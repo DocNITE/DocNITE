@@ -1,4 +1,1 @@
-[![DocNITE's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocNITE&theme=dark&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocNITE&theme=dark&layout=compact&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![DocNITE's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocNITE&theme=default&show_icons=true&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocNITE&theme=default&layout=compact&show_icons=true&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+nae
